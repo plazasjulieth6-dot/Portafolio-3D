@@ -1,0 +1,13 @@
+PORTAFOLIO · ARCHIVOS PARA PUBLICAR
+
+Este ZIP trae TODO lo necesario: index.html, la carpeta data y la carpeta assets con tus imágenes ya ordenadas.
+
+1) Descomprime el ZIP en una carpeta (si ya tienes una carpeta del portafolio, descomprímelo dentro y elige reemplazar).
+2) Sube el CONTENIDO de esa carpeta a internet:
+   - Netlify: arrastra la carpeta completa a https://app.netlify.com/drop
+   - GitHub Pages: sube index.html, data y assets a la raíz de tu repositorio (tuusuario.github.io).
+3) Cada vez que cambies algo en modo edición, vuelve a pulsar «Exportar para publicar» y repite los pasos 1 y 2.
+4) Para que no se acumulen archivos viejos en tu carpeta, después de exportar pulsa «🗑 Limpiar carpeta publicada» y elige la carpeta del portafolio.
+
+IMPORTANTE: los archivos de más de 10 MB pueden fallar al subirse con arrastrar y soltar.
+No hay archivos de más de 10 MB. 👍
